@@ -1,6 +1,6 @@
 <!--
   Button.vue
-  Author: ccalo@google.com (Chris Calo)
+  Author: chris.calo@google.com (Chris Calo)
   -->
 <template>
   <button type="button" class="Button" v-bind="{ disabled }">
