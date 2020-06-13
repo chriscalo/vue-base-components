@@ -1,6 +1,6 @@
 <!--
   Link.vue
-  Author: ccalo@google.com (Chris Calo)
+  Author: chris.calo@gmail.com (Chris Calo)
   -->
 <template>
   <a v-bind="{ href }" class="Link">
